@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A history
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! My name is Jane, and I am a Data Scientist at Optum, a healthcare IT company. When I have some spare time, I compete in powerlifting, take my two pups on hikes, and try my best to get 8 hours of sleep.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Background
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Duke University, BSE in Biomedical Engineering [2016]
+- Duke University, MEng in Biomedical Engineering [2017]
+- Optum Data Science University Graduate [2019]
