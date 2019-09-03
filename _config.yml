@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Jane Hung
+title: "Jane Hung"
 
 # Short description of your site
-description: Logging some cool projects
+description: "Logging some cool projects"
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
